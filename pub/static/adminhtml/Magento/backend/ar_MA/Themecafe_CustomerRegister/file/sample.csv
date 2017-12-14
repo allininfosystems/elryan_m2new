@@ -1,0 +1,4 @@
+Country,"International Code","Mobile Code","Regex Mask"
+IND,+91,8,/(8|00918|+918|918)(d{9})/i
+IND,+91,7,/(7|00917|+917|917)(d{9})/i
+IND,+91,9,/(9|00919|+919|919)(d{9})/i
