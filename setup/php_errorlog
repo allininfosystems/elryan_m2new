@@ -1,0 +1,45 @@
+[29-Nov-2017 19:03:57 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::read(): open(127.0.0.1:20000/sess_r7jg025h2918qfestkio2n5mt2, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler/Native.php on line 22 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 22, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler/Native.php(22): SessionHandler->read('r7jg025h2918qfe...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(93): Magento\Framework\Session\SaveHandler\Native->read('r7jg025h2918qfe...')
+#3 [internal function]: Magento\Framework\Session\SaveHandler->read('r7jg025h2918qfe...')
+#4 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SessionManager.php(189): session_start()
+#5 /home/elryan35/public_html/m2new/gener in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[29-Nov-2017 19:03:57 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_r7jg025h2918qfestkio2n5mt2, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('r7jg025h2918qfe...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('r7jg025h2918qfe...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[29-Nov-2017 19:04:23 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::read(): open(127.0.0.1:20000/sess_r7jg025h2918qfestkio2n5mt2, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler/Native.php on line 22 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 22, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler/Native.php(22): SessionHandler->read('r7jg025h2918qfe...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(93): Magento\Framework\Session\SaveHandler\Native->read('r7jg025h2918qfe...')
+#3 [internal function]: Magento\Framework\Session\SaveHandler->read('r7jg025h2918qfe...')
+#4 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SessionManager.php(189): session_start()
+#5 /home/elryan35/public_html/m2new/gener in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[29-Nov-2017 19:04:23 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_r7jg025h2918qfestkio2n5mt2, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('r7jg025h2918qfe...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('r7jg025h2918qfe...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[29-Nov-2017 19:04:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::read(): open(127.0.0.1:20000/sess_r7jg025h2918qfestkio2n5mt2, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler/Native.php on line 22 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 22, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler/Native.php(22): SessionHandler->read('r7jg025h2918qfe...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(93): Magento\Framework\Session\SaveHandler\Native->read('r7jg025h2918qfe...')
+#3 [internal function]: Magento\Framework\Session\SaveHandler->read('r7jg025h2918qfe...')
+#4 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SessionManager.php(189): session_start()
+#5 /home/elryan35/public_html/m2new/gener in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[29-Nov-2017 19:04:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_r7jg025h2918qfestkio2n5mt2, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('r7jg025h2918qfe...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('r7jg025h2918qfe...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61

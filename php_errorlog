@@ -1,0 +1,759 @@
+[29-Nov-2017 01:12:42 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[29-Nov-2017 07:48:58 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/framework/Image/Adapter/Gd2.php on line 184
+[29-Nov-2017 13:00:38 UTC] PHP Fatal error:  Interface 'CF\Integration\IntegrationAPIInterface' not found in /home/elryan35/public_html/m2new/app/code/CloudFlare/Plugin/Backend/MagentoAPI.php on line 12
+[29-Nov-2017 13:01:12 UTC] PHP Fatal error:  Interface 'CF\Integration\IntegrationAPIInterface' not found in /home/elryan35/public_html/m2new/app/code/CloudFlare/Plugin/Backend/MagentoAPI.php on line 12
+[29-Nov-2017 13:02:15 UTC] PHP Fatal error:  Interface 'CF\Integration\IntegrationAPIInterface' not found in /home/elryan35/public_html/m2new/app/code/CloudFlare/Plugin/Backend/MagentoAPI.php on line 12
+[29-Nov-2017 07:16:22 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[30-Nov-2017 02:59:47 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[30-Nov-2017 03:34:23 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/elryan35/public_html/m2new/index.php on line 39
+[30-Nov-2017 03:34:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/elryan35/public_html/m2new/index.php on line 39
+[30-Nov-2017 03:34:24 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/elryan35/public_html/m2new/index.php on line 39
+[30-Nov-2017 06:30:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function apache_get_modules() in /home/elryan35/public_html/m2new/info.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/info.php on line 3
+[30-Nov-2017 06:44:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function apache_get_modules() in /home/elryan35/public_html/m2new/info.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/info.php on line 3
+[30-Nov-2017 17:19:00 UTC] PHP Fatal error:  Out of memory (allocated 840957952) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Tree/Ruleset.php on line 497
+[01-Dec-2017 03:12:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function apache_get_modules() in /home/elryan35/public_html/m2new/info.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/info.php on line 3
+[01-Dec-2017 09:45:47 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:07 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:46:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:26 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:26 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:27 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:48:28 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:53:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:57:36 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 09:57:39 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:13 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:16 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:41 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:58 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:58 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:58 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:58 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:58 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:58 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:07:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:08:02 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:08:52 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:08:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:20 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:21 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:24 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:25 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:10:43 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:37 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:37 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:37 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:37 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:37 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:37 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:38 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:38 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:38 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:38 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:14:38 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:42 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:17:49 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (109.199.102.189:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:22:16 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (127.0.0.1:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:22:17 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (127.0.0.1:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 10:22:17 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (127.0.0.1:11211) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 14:00:39 UTC] PHP Fatal error:  Out of memory (allocated 838860800) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Parser.php on line 2639
+[01-Dec-2017 14:09:00 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (127.0.0.1:20000) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 14:09:45 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (127.0.0.1:20000) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 14:09:48 UTC] PHP Fatal error:  Uncaught Exception: Warning: Unknown: Failed to write session data (user). Please verify that the current setting of session.save_path is correct (127.0.0.1:20000) in Unknown on line 0 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'Unknown: Failed...', 'Unknown', 0, NULL)
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 14:57:30 UTC] PHP Fatal error:  Out of memory (allocated 840957952) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Visitor.php on line 45
+[01-Dec-2017 15:06:58 UTC] PHP Fatal error:  Out of memory (allocated 840957952) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Visitor.php on line 45
+[01-Dec-2017 15:16:06 UTC] PHP Fatal error:  Out of memory (allocated 840957952) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Visitor.php on line 45
+[01-Dec-2017 15:33:40 UTC] PHP Fatal error:  Out of memory (allocated 840957952) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Visitor.php on line 45
+[01-Dec-2017 16:49:36 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:49:41 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_v8rsmbrc3iml8lulplrpu78v66, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('v8rsmbrc3iml8lu...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('v8rsmbrc3iml8lu...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:49:51 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:49:57 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:49:59 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:50:00 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:50:00 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:50:00 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_1e6ac5915bee909f1eb87f8fbfab3e10, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('1e6ac5915bee909...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('1e6ac5915bee909...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 16:50:13 UTC] PHP Fatal error:  Uncaught Exception: Warning: SessionHandler::write(): open(127.0.0.1:20000/sess_v8rsmbrc3iml8lulplrpu78v66, O_RDWR) failed: No such file or directory (2) in /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php on line 105 in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php:61
+Stack trace:
+#0 [internal function]: Magento\Framework\App\ErrorHandler->handler(2, 'SessionHandler:...', '/home/elryan35/...', 105, Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Session/SaveHandler.php(105): SessionHandler->write('v8rsmbrc3iml8lu...', '')
+#2 [internal function]: Magento\Framework\Session\SaveHandler->write('v8rsmbrc3iml8lu...', '')
+#3 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/ErrorHandler.php on line 61
+[01-Dec-2017 17:07:04 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/framework/DataObject.php on line 190
+[01-Dec-2017 17:07:49 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/framework/DataObject.php on line 424
+[01-Dec-2017 17:11:29 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/framework/Interception/PluginList/PluginList.php on line 267
+[01-Dec-2017 17:12:14 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/framework/Event/Manager.php on line 65
+[02-Dec-2017 04:44:01 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[02-Dec-2017 04:44:50 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[02-Dec-2017 04:45:17 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[02-Dec-2017 05:15:20 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[02-Dec-2017 11:25:17 UTC] PHP Fatal error:  Out of memory (allocated 838860800) (tried to allocate 2097160 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Output.php on line 27
+[04-Dec-2017 06:48:00 UTC] PHP Fatal error:  Out of memory (allocated 838860800) (tried to allocate 20480 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Parser.php on line 1239
+[04-Dec-2017 07:34:29 UTC] PHP Fatal error:  Allowed memory size of 536870912 bytes exhausted (tried to allocate 69632 bytes) in /home/elryan35/public_html/m2new/vendor/oyejorge/less.php/lib/Less/Parser.php on line 787
+[04-Dec-2017 13:51:33 UTC] PHP Parse error:  syntax error, unexpected 'Forgot' (T_STRING), expecting ',' or ')' in /home/elryan35/public_html/m2new/app/design/frontend/Codazon/fastest/baby_kid/Magento_Customer/templates/form/login.mini.phtml on line 43
+[04-Dec-2017 14:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[05-Dec-2017 06:24:07 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[05-Dec-2017 12:27:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[05-Dec-2017 13:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[05-Dec-2017 07:29:19 CST6CDT] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home/elryan35/public_html/m2new/bin/magento on line 21
+[06-Dec-2017 11:40:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[06-Dec-2017 11:41:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[06-Dec-2017 11:43:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[06-Dec-2017 11:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[06-Dec-2017 11:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[06-Dec-2017 12:14:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method Magento\Customer\Model\Indexer\Source::addAttributeToSelect() in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php:38
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(310): Magento\Framework\Indexer\Handler\AttributeHandler->prepareSql(Object(Magento\Customer\Model\Indexer\Source), 'e', Array)
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Entity.php(26): Magento\Framework\Indexer\Action\Base->createResultCollection()
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(179): Magento\Framework\Indexer\Action\Entity->prepareDataSource(Array)
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Action/Base.php(189): Magento\Framework\Indexer\Action\Base->execute()
+#4 /home/elryan35/public_html/m2new/vendor/magento/module-indexer/Model/Indexer.php(412): Magento\Framework\Indexer\Action\Base->executeFull( in /home/elryan35/public_html/m2new/vendor/magento/framework/Indexer/Handler/AttributeHandler.php on line 38
+[06-Dec-2017 19:25:36 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/module-catalog/Model/Product/Type.php on line 147
+[06-Dec-2017 19:26:21 UTC] PHP Fatal error:  Maximum execution time of 45 seconds exceeded in /home/elryan35/public_html/m2new/vendor/magento/module-tax/Model/Sales/Total/Quote/Tax.php on line 140
+[08-Dec-2017 13:18:00 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:18:40 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:20:13 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:22:22 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 07:28:13 CST6CDT] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/elryan35/public_html/m2new/order_import.php on line 6
+[08-Dec-2017 07:28:49 CST6CDT] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/elryan35/public_html/m2new/order_import.php on line 13
+[08-Dec-2017 13:32:11 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:34:02 UTC] PHP Notice:  Undefined variable: orderFactory in /home/elryan35/public_html/m2new/order_import.php on line 14
+[08-Dec-2017 13:34:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function create() on null in /home/elryan35/public_html/m2new/order_import.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/order_import.php on line 14
+[08-Dec-2017 13:34:26 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:38:46 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:56:53 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:57:50 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 13:57:54 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 14:02:57 UTC] PHP Fatal error:  Uncaught LogicException: Circular dependency: Magento\Framework\View\Layout depends on Magento\Customer\Helper\Session\CurrentCustomer and vice versa. in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php:55
+Stack trace:
+#0 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/ObjectManager.php(70): Magento\Framework\ObjectManager\Factory\Dynamic\Developer->create('Magento\\Framewo...')
+#1 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(144): Magento\Framework\ObjectManager\ObjectManager->get('Magento\\Framewo...')
+#2 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/AbstractFactory.php(230): Magento\Framework\ObjectManager\Factory\AbstractFactory->resolveArgument(Array, 'Magento\\Framewo...', NULL, 'layout', 'Magento\\Custome...')
+#3 /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php(34): Magento\Framework\Obj in /home/elryan35/public_html/m2new/vendor/magento/framework/ObjectManager/Factory/Dynamic/Developer.php on line 55
+[08-Dec-2017 08:17:04 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '67.227.236.173' (110) in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[08-Dec-2017 08:17:04 CST6CDT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'reikicrystalnew'@'localhost' (using password: YES) in /home/elryan35/public_html/m2new/import-sales-order.php on line 9
+[08-Dec-2017 08:17:35 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '67.227.236.173' (110) in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[08-Dec-2017 08:17:35 CST6CDT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'reikicrystalnew'@'localhost' (using password: YES) in /home/elryan35/public_html/m2new/import-sales-order.php on line 9
+[08-Dec-2017 08:17:35 CST6CDT] PHP Warning:  include(../app/bootstrap.php): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:43:20 CST6CDT] PHP Notice:  Undefined variable: _ in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[11-Dec-2017 03:43:20 CST6CDT] PHP Notice:  Undefined variable: VPA in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[11-Dec-2017 03:43:20 CST6CDT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elryan35_test'@'localhost' (using password: YES) in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[11-Dec-2017 03:43:20 CST6CDT] PHP Warning:  include(../app/bootstrap.php): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:43:20 CST6CDT] PHP Warning:  include(): Failed opening '../app/bootstrap.php' for inclusion (include_path='.:/usr/local/php70/pear') in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:43:20 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Magento\Framework\App\Bootstrap' not found in /home/elryan35/public_html/m2new/import-sales-order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/import-sales-order.php on line 25
+[11-Dec-2017 03:46:06 CST6CDT] PHP Notice:  Undefined variable: _ in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[11-Dec-2017 03:46:06 CST6CDT] PHP Notice:  Undefined variable: VPA in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[11-Dec-2017 03:46:06 CST6CDT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'elryan35_test'@'localhost' (using password: YES) in /home/elryan35/public_html/m2new/import-sales-order.php on line 7
+[11-Dec-2017 03:46:06 CST6CDT] PHP Warning:  include(../app/bootstrap.php): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:46:06 CST6CDT] PHP Warning:  include(): Failed opening '../app/bootstrap.php' for inclusion (include_path='.:/usr/local/php70/pear') in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:46:06 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Magento\Framework\App\Bootstrap' not found in /home/elryan35/public_html/m2new/import-sales-order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/import-sales-order.php on line 25
+[11-Dec-2017 03:46:55 CST6CDT] PHP Warning:  include(../app/bootstrap.php): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:46:55 CST6CDT] PHP Warning:  include(): Failed opening '../app/bootstrap.php' for inclusion (include_path='.:/usr/local/php70/pear') in /home/elryan35/public_html/m2new/import-sales-order.php on line 24
+[11-Dec-2017 03:46:55 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Magento\Framework\App\Bootstrap' not found in /home/elryan35/public_html/m2new/import-sales-order.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/import-sales-order.php on line 25
+[11-Dec-2017 09:49:31 UTC] PHP Notice:  Undefined variable: obj in /home/elryan35/public_html/m2new/import-sales-order.php on line 32
+[11-Dec-2017 09:49:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/elryan35/public_html/m2new/import-sales-order.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/import-sales-order.php on line 32
+[11-Dec-2017 09:49:56 UTC] PHP Notice:  Undefined variable: obj in /home/elryan35/public_html/m2new/import-sales-order.php on line 33
+[11-Dec-2017 09:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get() on null in /home/elryan35/public_html/m2new/import-sales-order.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/elryan35/public_html/m2new/import-sales-order.php on line 33
+[11-Dec-2017 09:50:15 UTC] PHP Fatal error:  Uncaught Magento\Framework\Exception\LocalizedException: Area code is already set in /home/elryan35/public_html/m2new/vendor/magento/framework/App/State.php:135
+Stack trace:
+#0 /home/elryan35/public_html/m2new/import-sales-order.php(40): Magento\Framework\App\State->setAreaCode('frontend')
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/State.php on line 135
+[11-Dec-2017 09:50:25 UTC] PHP Fatal error:  Uncaught Magento\Framework\Exception\LocalizedException: Area code is already set in /home/elryan35/public_html/m2new/vendor/magento/framework/App/State.php:135
+Stack trace:
+#0 /home/elryan35/public_html/m2new/import-sales-order.php(40): Magento\Framework\App\State->setAreaCode('frontend')
+#1 {main}
+  thrown in /home/elryan35/public_html/m2new/vendor/magento/framework/App/State.php on line 135
+[11-Dec-2017 09:54:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elryan35/public_html/m2new/import-sales-order.php on line 55
+[11-Dec-2017 10:00:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elryan35/public_html/m2new/import-sales-order.php on line 55
+[11-Dec-2017 10:01:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elryan35/public_html/m2new/import-sales-order.php on line 55
+[11-Dec-2017 10:05:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elryan35/public_html/m2new/import-sales-order.php on line 55
+[11-Dec-2017 10:19:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elryan35/public_html/m2new/import-sales-order.php on line 55
+[11-Dec-2017 10:20:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/elryan35/public_html/m2new/import-sales-order.php on line 55
+[11-Dec-2017 10:44:08 UTC] PHP Warning:  fopen(log/import-sales-order-error-logs.txt): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 229
+[11-Dec-2017 10:54:07 UTC] PHP Warning:  fopen(log/import-sales-order-error-logs.txt): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 229
+[11-Dec-2017 11:53:24 UTC] PHP Warning:  fopen(log/import-sales-order-error-logs.txt): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 229
+[11-Dec-2017 12:02:34 UTC] PHP Warning:  fopen(log/import-sales-order-error-logs.txt): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 229
+[11-Dec-2017 12:03:36 UTC] PHP Warning:  fopen(log/import-sales-order-error-logs.txt): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 229
+[11-Dec-2017 12:04:06 UTC] PHP Warning:  fopen(log/import-sales-order-error-logs.txt): failed to open stream: No such file or directory in /home/elryan35/public_html/m2new/import-sales-order.php on line 229
+[11-Dec-2017 12:04:48 UTC] PHP Notice:  Undefined variable: order_id in /home/elryan35/public_html/m2new/import-sales-order.php on line 230
+[11-Dec-2017 12:25:12 UTC] PHP Notice:  Undefined variable: order_id in /home/elryan35/public_html/m2new/import-sales-order.php on line 230
+[11-Dec-2017 12:28:00 UTC] PHP Notice:  Undefined variable: order_id in /home/elryan35/public_html/m2new/import-sales-order.php on line 230
+[11-Dec-2017 12:35:50 UTC] PHP Notice:  Undefined variable: order_id in /home/elryan35/public_html/m2new/import-sales-order.php on line 230
+[12-Dec-2017 04:47:21 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/elryan35/public_html/m2new/pub/ub-tool/protected/controllers/Step7Controller.php on line 295
