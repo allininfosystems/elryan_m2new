@@ -14,7 +14,7 @@
 //
 //  Typography
 //  ---------------------------------------------
-@font-face {
+/*@font-face {
   font-family: 'Alef-Regular';
   src: url('../fonts/Alef-Regular.eot?#iefix') format('embedded-opentype'),
     url('../fonts/Alef-Regular.woff') format('woff'),
@@ -22,7 +22,18 @@
       url('../fonts/Alef-Regular.svg#Alef-Regular') format('svg');
   font-weight: normal;
   font-style: normal;
+}*/
+
+@font-face {
+  font-family: '29LTBukra-Regular';
+  src: url('../fonts/29LTBukra-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/29LTBukra-Regular.woff') format('woff'),
+     url('../fonts/29LTBukra-Regular.ttf')  format('truetype'),
+      url('../fonts/29LTBukra-Regular.svg#29LTBukra-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
+
 //  Fonts
 @icons__font-path: '@{baseDir}fonts/Luma-Icons';
 @icons__font-name: 'luma-icons';
@@ -355,7 +366,7 @@
 
 .page-layout-1column .columns{direction: rtl;}
 
-body{font-family: 'Alef-Regular' !important;     background: #fff !important;}
+body{font-family: '29LTBukra-Regular' !important;     background: #fff !important;}
 
 /***********************************************************
                  Header Section 
@@ -1404,19 +1415,4 @@ html[lang="en-US"] .header.content .col-sm-9.col-md-12{width: 60.9%;}
  html[lang="ar-DZ"] .header.content .col-sm-9.col-md-8{width: 22.5%;}
  html[lang="ar-MA"] .header.content .col-sm-9.col-md-12{width: 59.9%;}
  html[lang="ar-MA"] .header.content .col-sm-9.col-md-8{width: 24.5%;}
-}
-@media (min-width:1321px) and (max-width:1920px){
-    a.menu-link {font-size: 18.49px !important;}
-    .mobile_no {font-size: 17.15px;}
-    .switcher-currency strong {
-    font-size: 17.15px !important;
-}
-.switcher-language strong {
-    font-size: 17.15px !important;
-}
-.cdz-main-menu .cdz-horizontal-menu li.level0 > a.menu-link{padding-left: 10px; padding-right: 10px;}
-.page-header .sticky-menu:not(.active) .header-bottom-right .mobile_no{padding-top: 0; margin-top: -2px}
-div#switcher-currency {
-    margin-top: -2px;
-}
 }
