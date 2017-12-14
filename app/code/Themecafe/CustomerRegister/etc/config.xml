@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../Core/etc/config.xsd">
+    <default>
+        <themecafe_customer_verification>
+            <general>
+                <active>1</active>
+                <default_email>support@support.com</default_email>
+            </general>
+            <sms_setting>
+                <get_post>get</get_post>
+                <url><![CDATA[http://multilevel.mobyt.fr/sms/send.php]]></url>
+                <params><![CDATA[user={{user}}&pass={{pass}}&rcpt={{phone_number}}&data={{text_message}}&sender={{sender}}&qty=ll]]></params>
+                <number_format>0</number_format>
+                <replace_instruction><![CDATA[/\.| |\-|\(|\)/]]></replace_instruction>
+                <record_logs>0</record_logs>
+            </sms_setting>
+            <otp_label_message>
+                <title_label>Verify Your OTP Code</title_label>
+                <send_error_message>Something went wrong! Please check your mobile number</send_error_message>
+                <send_success_message>OTP Successfully sent to your mobile number</send_success_message>
+                <otp_message>Your Registration code is ##OTP##.</otp_message>
+                <forgot_password>Reset your SuAyu password OTP is : ##OTP## or Reset password link is : ##LINK##</forgot_password>
+                <forgot_password_resend>Your Forgot Password verification code is : ##OTP##</forgot_password_resend>
+                <registration_message>Dear Customer, Thank you for registration, you have taken the right step to improve your and your family health and lifestyle by choosing SuAyu's products</registration_message>
+                <registered_otp_message>Dear Customer, One Time Password (OTP) to update your mobile number is: ##OTP##</registered_otp_message>
+           </otp_label_message>
+        </themecafe_customer_verification>
+    </default>
+</config>

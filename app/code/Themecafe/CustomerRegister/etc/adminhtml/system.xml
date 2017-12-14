@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Copyright © 2015 Themecafe Design All rights reserved.
+ * See COPYING.txt for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config/etc/system_file.xsd">
+    <system>
+        <tab id="themecafe_extension" translate="label" sortOrder="350">
+            <label><![CDATA[
+                <div style="padding-left:22px; background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAYAAAAmlE46AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NTc3MiwgMjAxNC8wMS8xMy0xOTo0NDowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo0NWFmZjkwNi1hOGExLTBmNDctOTgzNC05YzE3YTNjMzdjMjgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RjMzNzRBNEU5NTEzMTFFNjlGQkVDMzEyODhENTcwMTkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RjMzNzRBNEQ5NTEzMTFFNjlGQkVDMzEyODhENTcwMTkiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKFdpbmRvd3MpIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6OTc0MzdkMzQtZDFmMy05NTRkLWJiNjEtNzBhZWY0NzJhZjllIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjQ1YWZmOTA2LWE4YTEtMGY0Ny05ODM0LTljMTdhM2MzN2MyOCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PkQYP/UAAAFDSURBVHjanJI9LwRRFIZnd4wlUW9ExYoChU6iJIIfQKJSLAmrEYVsTadQq7Zf0a7ER+0jOpVOSaLw0VmW8R555uZkQ+Mkz5w79z3v3Dv33FyaptF/osMe97PD+0p1cSne/6jtFBNise/ktpJnsoxxSxR/MRXR6tRGmfFL9Ioq4rwzLYgDNKv5DFu15RFsK5NiQMygTfNucS52vTERG2JObIp+sYRWEE9iT5yiha1ui1W+uC6uMBQ4sAp5Tez4FYfECFtaEYdiDM3G16ImpsSHX/GZbEJJvIgmvIpBtFCbGXPkNxGLHrQ84xgt1GbGB7JdoxbtiVyrWmihNjM2uDEJc/4epswl1DS8scYBWHQ5Q9o2lx1SMN5xAY45kG7+K2bcRKtSG9phcSGWxaMYd5r18kzcoEXtxsgJR2LUjb32E98CDABVLk2EVmSwcAAAAABJRU5ErkJggg==')
+ left 50% no-repeat;">THEMECAFE</div> ]]>
+            </label>
+        </tab>
+        <section id="themecafe_customer_verification" translate="label" type="text" sortOrder="100" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>Customer Mobile Number Settings</label>
+            <tab>themecafe_extension</tab>
+            <resource>Themecafe_CustomerRegister::config_customerregister</resource>
+            <group id="general" translate="label" type="text" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>General</label>
+                <field id="active" translate="label" type="select" sortOrder="1" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Enabled</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                </field>
+                <field id="email_requried" translate="label" type="select" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Email id Is Required</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <comment><![CDATA[Email id is required on registration page?]]></comment>
+                </field>
+                <field id="default_email" translate="label comment" type="text" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Default Email</label>
+                    <validate>required validate-email</validate>
+                    <comment><![CDATA[Add default email address for customer registration]]></comment>
+                    <depends>
+                        <field id="email_requried">0</field>
+                    </depends>
+                </field>
+<!--                <field id="active_otp" translate="label" type="select" sortOrder="10" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Enabled OTP verification</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <comment><![CDATA[Enable OTP verification on new customer register]]></comment>
+                </field>-->
+            </group>
+            <group id="sms_setting" translate="label" type="text" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+            <label>SMS Gateway Settings</label>
+                <field id="get_post" translate="label comment" type="select" sortOrder="2" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Sending Method</label>
+                    <source_model>Themecafe\CustomerRegister\Model\Config\Source\GetPost</source_model>
+                    <comment><![CDATA[Method used for SMS sending.]]></comment>
+                </field>
+                <field id="number_format" translate="label" type="select" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Number Format</label>
+                    <source_model>Themecafe\CustomerRegister\Model\Config\Source\NumberFormat</source_model>
+                    <comment><![CDATA[SMS phone number international format.]]></comment>
+                </field>
+                <field id="login" translate="label comment" type="text" sortOrder="4" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Username</label>
+                    <comment><![CDATA[Gateway user account.]]></comment>
+                </field>
+                <field id="password" translate="label comment" type="text" sortOrder="5" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Password</label>
+                    <comment><![CDATA[Gateway password.]]></comment>
+                </field>
+                <field id="sender" translate="label comment" type="text" sortOrder="6" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Mobile Number</label>
+                    <comment><![CDATA[Test SMS receiver Mobile/Cell number.]]></comment>
+                </field>
+                <field id="url" translate="label comment" type="text" sortOrder="8" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>URL</label>
+                    <comment><![CDATA[SMS gateway URL.]]></comment>
+                </field>
+                <field id="params" translate="label comment" type="textarea" sortOrder="9" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Parameters</label>
+                    <comment><![CDATA[Parameters used while submiting SMS.]]></comment>
+                </field>
+                <field id="sample" translate="label" type="Themecafe\CustomerRegister\Block\Adminhtml\Form\Field\Download" sortOrder="15" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Download Sample</label>
+                    <comment><![CDATA[Download the sample file of mobile number regular expression]]></comment>
+                </field>
+                <field id="export" translate="label" type="Themecafe\CustomerRegister\Block\Adminhtml\Form\Field\Export" sortOrder="16" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Export</label>
+                    <comment><![CDATA[Download the file of mobile number regular expression]]></comment>
+                </field>
+                <field id="import" translate="label" type="Themecafe\CustomerRegister\Block\Adminhtml\Form\Field\Import" sortOrder="17" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Import</label>
+                    <backend_model>Themecafe\CustomerRegister\Model\Tablecell</backend_model>
+                    <comment><![CDATA[Import CSV of your country mobile number regular expression]]></comment>
+                </field>
+                <field id="replace_instruction" translate="label comment" type="text" sortOrder="18" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Regex Replace</label>
+                    <comment><![CDATA[preg_replace pattern phone number format. By default, /\.| |\-|\(|\)/ replaces '.', spaces, '-', '(' and ')'. Do not modify unless necessary.]]></comment>
+                </field>
+                <field id="record_logs" translate="label" type="select" sortOrder="19" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>Record Logs</label>
+                    <source_model>Magento\Config\Model\Config\Source\Yesno</source_model>
+                    <comment><![CDATA[Record logs when trying to submit SMS messages in themecafe_customer_verificationlogs.log.]]></comment>
+                </field>
+                <field id="test" translate="label comment" type="button" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="0">
+                    <label>SMS Sending Test</label>
+                    <frontend_model>Themecafe\CustomerRegister\Block\Config\Test</frontend_model>
+                    <comment><![CDATA[Test submitting SMS. Please note that sender phone number will be used, therefore it must be in appropriate format.]]></comment>
+                </field>
+             </group>
+             <group id="otp_label_message" translate="label" type="text" sortOrder="3" showInDefault="1" showInWebsite="1" showInStore="1">
+                <label>OTP Messages</label>
+                <field id="title_label" translate="label comment" type="text" sortOrder="11" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Title Label</label>
+                    <comment><![CDATA[Add title of OTP verification]]></comment>
+                </field>
+                <field id="send_error_message" translate="label comment" type="text" sortOrder="13" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>OTP Send Error Message</label>
+                    <comment><![CDATA[OTP send error message.]]></comment>
+                </field>
+                <field id="send_success_message" translate="label comment" type="text" sortOrder="14" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>OTP Send Success Message</label>
+                    <comment><![CDATA[OTP send success message.]]></comment>
+                </field>
+<!--                <field id="otp_message" translate="label comment" type="textarea" sortOrder="15" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>OTP Message</label>
+                    <comment><![CDATA[Add OTP message of mobile number verification, ##OTP## this variable is used for OTP unique code.]]></comment>
+                </field>
+                  <field id="forgot_password" translate="label comment" type="textarea" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Forgot Password Message</label>
+                    <comment><![CDATA[##LINK## variable is used for forgot passoword link and ##OTP## for OTP unique code.]]></comment>
+                </field>
+                <field id="forgot_password_resend" translate="label comment" type="textarea" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Forgot Password Resend OTP Message</label>
+                    <comment><![CDATA[##OTP## variable is used for OTP unique code.]]></comment>
+                </field>-->
+                <field id="registration_message" translate="label" type="textarea" sortOrder="15" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Confirmation SMS on Registration</label>
+                </field>
+                <field id="otp_message" translate="label comment" type="textarea" sortOrder="17" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Registration OTP Message</label>
+                    <comment><![CDATA[Add OTP message of mobile number verification, ##OTP## this variable is used for OTP unique code.]]></comment>
+                </field>
+                <field id="registered_otp_message" translate="label comment" type="textarea" sortOrder="18" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Registered Mobile OTP Message</label>
+                    <comment><![CDATA[Add OTP message for registered mobile number verification, ##OTP## this variable is used for OTP unique code.]]></comment>
+                </field>
+                <field id="forgot_password" translate="label comment" type="textarea" sortOrder="20" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Forgot Password Message</label>
+                    <comment><![CDATA[##LINK## variable is used for forgot passoword link and ##OTP## for OTP unique code.]]></comment>
+                </field>
+<!--                <field id="forgot_password_resend" translate="label comment" type="textarea" sortOrder="30" showInDefault="1" showInWebsite="1" showInStore="1">
+                    <label>Forgot Password Resend OTP Message</label>
+                    <comment><![CDATA[##OTP## variable is used for OTP unique code.]]></comment>
+                </field>-->
+            </group>
+        </section>
+    </system>
+</config>
